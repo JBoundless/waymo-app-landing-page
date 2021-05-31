@@ -1,0 +1,28 @@
+.hero {
+  display: inline-flex;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 100%;
+  justify-content: space-between;
+  background-color: #021B79;
+  color: white;
+}
+
+.hero-text {
+  padding-top: 250px;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-family: Lato;
+}
+
+button {
+  background-color: #00E89D;
+  padding: 10px;
+  margin-top: 20px;
+  font-family: Lato;
+}
+
+button:hover {
+  cursor: pointer;
+}
